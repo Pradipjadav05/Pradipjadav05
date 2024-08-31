@@ -1,7 +1,3 @@
-Sure! Here's a version tailored for a Flutter Developer:
-
----
-
 # 🌟 Welcome to My GitHub Profile! 🌟
 
 ### 👋 Hi there, I’m **Pradip Jadav!**
@@ -28,7 +24,7 @@ I’m a passionate **Flutter Developer** with **2 of experience** in building cr
 
 ---
 
-## 😄 Pronouns: **He/Him** (or specify your pronouns)
+## 😄 Pronouns: **He/Him**
 
 ## ⚡ Fun Fact:
 I enjoy exploring UI/UX design principles and incorporating them into my Flutter apps to create intuitive and visually appealing user interfaces! 🎨
