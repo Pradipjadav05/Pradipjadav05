@@ -2,7 +2,7 @@
 
 ### 👋 Hi there, I’m **Pradip Jadav!**
 
-I’m a passionate **Flutter Developer** with **2 of experience** in building cross-platform mobile applications. I love crafting beautiful user interfaces and seamless user experiences using Flutter.
+I’m a passionate **Flutter Developer** with **3 of experience** in building cross-platform mobile applications. I love crafting beautiful user interfaces and seamless user experiences using Flutter.
 
 ---
 
